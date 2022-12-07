@@ -1,1 +1,21 @@
+<!-- importowany -->
+<!-- 15-11-2022 -->
+<html>
+<head>
+<title>styl importowany</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+@import url("mazg_z5_1.css");
+</style>
+</head>
+<body bgcolor="yellow">
+<p> Mazgaj kodowanie strony</p>
+p{
+color: green;
+font-size: 30px;
+}
+</body>
+</html>
 
+
+/* 2022-11-15 Mazgaj */ 
